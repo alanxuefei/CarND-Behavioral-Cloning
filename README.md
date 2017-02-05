@@ -72,6 +72,7 @@ model.h5 - The trained model.
   Irrelevant information (i.e sky, tree and so on) is removed by croping the image. The noise is reduced by normalizing images.
 
 ### Network Structure
+  The network model is similar to the model from NVIDIA's End to End Learning for Self-Driving Cars paper. The main difference between my model and the NVIDIA mode is that dropout layers are used after each Convolutional Layer to avoid overfitting issue. The network architecture is as below:
 <pre>
 ____________________________________________________________________________________________________
 Layer (type)                     Output Shape          Param #     Connected to
