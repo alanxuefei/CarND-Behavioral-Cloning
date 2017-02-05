@@ -38,10 +38,8 @@ model.h5 - The trained model.
   </tr>
   <tr>
   <th><img src="readmeSamples/center_2016_12_01_13_32_46_486.jpg" alt="" border=1 height=100 width=100></img></th>
-  <th><img src="readmeSamples/left_2016_12_01_13_32_46_486.jpg
-" alt="" border=1 height=100 width=100></th>
-  <th><img src="readmeSamples/right_2016_12_01_13_32_46_486.jpg
-" alt="" border=1 height=100 width=100></th>
+  <th><img src="readmeSamples/left_2016_12_01_13_32_46_486.jpg" alt="" border=1 height=100 width=100></th>
+  <th><img src="readmeSamples/right_2016_12_01_13_32_46_486.jpg" alt="" border=1 height=100 width=100></th>
     <th>-0.0787459</th>
     <th>0.9855326</th>
     <th>0</th>
@@ -49,10 +47,8 @@ model.h5 - The trained model.
   </tr>
     <tr>
     <th><img src="readmeSamples/center_2016_12_01_13_30_48_287.jpg" alt="" border=1 height=100 width=100></img></th>
-    <th><img src="readmeSamples/left_2016_12_01_13_30_48_287.jpg
-  " alt="" border=1 height=100 width=100></th>
-    <th><img src="readmeSamples/right_2016_12_01_13_30_48_287.jpg
-  " alt="" border=1 height=100 width=100></th>
+    <th><img src="readmeSamples/left_2016_12_01_13_30_48_287.jpg" alt="" border=1 height=100 width=100></th>
+    <th><img src="readmeSamples/right_2016_12_01_13_30_48_287.jpg" alt="" border=1 height=100 width=100></th>
     <th>0</th>
     <th>0</th>
     <th>0</th>
